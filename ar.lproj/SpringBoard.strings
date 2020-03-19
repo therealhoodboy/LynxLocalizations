@@ -144,5 +144,27 @@
     <string>تحكم الصوت</string>
     <key>HIDE_VOLUME_HUD</key>
     <string>أخفاء</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>تغيير عدد صفوف</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>أستخدام شكل جديد للتطبيقات</string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>عناوين صغيرة</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>أخفاء تقييم تجريبي</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>أبقاف في شاشة رئيسية</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>أخفاء نقاط تجريبي</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>أخفاء نقاط تجريبي</string>
+    <key>1</key>
+    <string>1</string>
+    <key>2</key>
+    <string>2</string>
+    <key>3</key>
+    <string>3</string>
+    <key>4</key>
+    <string>4</string>
 </dict>
 </plist>
