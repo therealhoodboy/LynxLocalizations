@@ -100,5 +100,11 @@
     <string>أخفاء البانر</string>
     <key>NOTIFICATION_HEIGHT</key>
     <string>مستوى أرتفاع الإشعارات</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>تغيير سمك خط</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>تغيير نص</string>
+    <key>CUSTOM_TEXT</key>
+    <string>أكتب هنا</string>
 </dict>
 </plist>
