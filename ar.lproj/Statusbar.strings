@@ -30,5 +30,17 @@
     <string>إخفاء</string>
     <key>HIDE_CLOCK</key>
     <string>إخفاء الساعة</string>
+    <key>CARRIER</key>
+    <string>أسم مشغل شبكة</string>
+    <key>USE_CUSTOM_CARRIER</key>
+    <string>تغيير أسم</string>
+    <key>ENTER_CUSTOM_CARRIER_TEXT</key>
+    <string>أكتب هنا</string>
+    <key>BATTERY_SECTION</key>
+    <string>إعدادات البطارية</string>
+    <key>SHOW_PERCENTAGE</key>
+    <string>عرض النسبة %</string>
+    <key>Hide Carrier Text</key>
+    <string>إخفاء أسم مشغل</string>
 </dict>
 </plist>
