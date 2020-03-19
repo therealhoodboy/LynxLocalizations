@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>COINS</key>
+    <string>عملة معدنية</string>
+    <key>HIDE_COIN_BUTTON</key>
+    <string>أخفاء زر عملة</string>
+</dict>
+</plist> 
