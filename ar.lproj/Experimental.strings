@@ -12,5 +12,11 @@
     <string>قد يؤدي فرض "التنسيق التلقائي" إلى تقفز الرموز عند فتح الإشعارات</string>
     <key>EXPERIMENTAL</key>
     <string>إعدادات تجريبية</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>أهتزازالهابتك</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>تعطيل</string>
+    <key>HAPTIC_TOUCH_WARNING</key>
+    <string>أنذار أهتزاز الهابتك</string>
 </dict>
 </plist>
