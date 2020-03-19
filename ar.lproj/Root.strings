@@ -43,13 +43,13 @@
     <key>SUPPORT_HEADER</key>
     <string>الدعم:</string>
     <key>REQUEST_FEATURE</key>
-    <string>طلب أضافة</string>
+    <string>طلب إضافة جدبدة</string>
     <key>REPORT_BUG</key>
     <string>قسم المشاكل</string>
     <key>TWEAK_GRAPHICS</key>
     <string>تأثيرات الأداة:</string>
     <key>TRANSLATIONS</key>
-    <string>مترجمون:</string>
+    <string>مترجمون اللغات:</string>
     <key>CONTRIBUTORS</key>
     <string>المساهمون</string>
     <key>Tweak Settings</key>
@@ -58,5 +58,11 @@
     <string>إعادة ضبط</string>
     <key>Special Thanks</key>
     <string>شكر خاص إلى:</string>
+    <key>TROUBLESHOOTING</key>
+    <string>إعادة ضبط جميع الإعدادات:</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>شاهد ثيم (Satiné):</string>
+    <key>APPLY_BUTTON</key>
+    <string>تطبيق</string>
 </dict>
 </plist>
