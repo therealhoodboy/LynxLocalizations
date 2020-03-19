@@ -18,5 +18,17 @@
     <string>أزرار أضافية</string>
     <key>ADD_INFO_BUTTON</key>
     <string>أضافة زر معلومات</string>
+    <key>APPLE_ID</key>
+    <string>حساب أبل أيدي</string>
+    <key>USE_CUSTOM_FIRST_NAME</key>
+    <string>تغيير أسم أول</string>
+    <key>FIRST_NAME</key>
+    <string>أكتب هنا</string>
+    <key>USE_CUSTOM_LAST_NAME</key>
+    <string>تغيير أسم أخير</string>
+    <key>LAST_NAME</key>
+    <string>أكتب هنا</string>
+    <key>HIDE_CHEVRONS</key>
+    <string>إخفاء أسهم ></string>
 </dict>
 </plist>
