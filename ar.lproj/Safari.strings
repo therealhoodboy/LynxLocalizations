@@ -6,5 +6,9 @@
     <string>إستخدام علامات التبويب</string>
     <key>DISCLAIMER_PLACEHOLDER</key>
     <string>أفتراضياً هذا الخيار مخصص للأيباد قد تواجه يعض المشاكل مع الأيفون عند أستخدامه.</string>
+    <key>1</key>
+    <string>1</string>
+    <key>2</key>
+    <string>2</string>
 </dict>
 </plist>
