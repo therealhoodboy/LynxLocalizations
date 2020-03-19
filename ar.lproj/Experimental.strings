@@ -1,22 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>NOTIFICATION_ICONS</key>
-    <string>أيقونات الأشعارات</string>
-    <key>USE_MODERN_STYLE</key>
-    <string>استخدام نمط حديث</string>
-    <key>AUTO_LAYOUT</key>
-    <string>أجبار التنسيق التلقائي</string>
-    <key>USE_CIRCLE_ICONS</key>
-    <string>أيقونات مدورة</string>
-    <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>قد يؤدي فرض "التنسيق التلقائي" إلى تقفز الرموز عند فتح الإشعارات</string>
-    <key>EXPERIMENTAL</key>
-    <string>إعدادات تجريبية</string>
-    <key>HAPTIC_TOUCH</key>
-    <string>أهتزازالهابتك</string>
-    <key>DISABLE_HAPTIC_TOUCH</key>
-    <string>تعطيل</string>
-    <key>HAPTIC_TOUCH_WARNING</key>
-    <string>أنذار أهتزاز الهابتك</string>
+	<key>AUTO_LAYOUT</key>
+	<string>أجبار التنسيق التلقائي</string>
+	<key>AUTO_LAYOUT_PLACEHOLDER</key>
+	<string>قد يؤدي فرض "التنسيق التلقائي" إلى تقفز الرموز عند فتح الإشعارات</string>
+	<key>DISABLE_HAPTIC_TOUCH</key>
+	<string>تعطيل</string>
+	<key>EXPERIMENTAL</key>
+	<string>إعدادات تجريبية</string>
+	<key>HAPTIC_TOUCH</key>
+	<string>أهتزاز الهابتك</string>
+	<key>HAPTIC_TOUCH_WARNING</key>
+	<string>أنذار أهتزاز الهابتك</string>
+	<key>NOTIFICATION_ICONS</key>
+	<string>أيقونات الأشعارات</string>
+	<key>USE_CIRCLE_ICONS</key>
+	<string>أيقونات مدورة</string>
+	<key>USE_MODERN_STYLE</key>
+	<string>استخدام نمط حديث</string>
 </dict>
 </plist>

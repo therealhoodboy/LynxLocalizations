@@ -1,14 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>TAB_OVERVIEW</key>
-    <string>علامات التبويب</string>
-    <key>USE_TAB_OVERVIEW</key>
-    <string>إستخدام علامات التبويب</string>
-    <key>DISCLAIMER_PLACEHOLDER</key>
-    <string>أفتراضياً هذا الخيار مخصص للأيباد قد تواجه يعض المشاكل مع الأيفون عند أستخدامه.</string>
-    <key>1</key>
-    <string>1</string>
-    <key>2</key>
-    <string>2</string>
+	<key>BACKGROUND_PLAYBACK</key>
+	<string>تشغيل صوت في خلفية</string>
+	<key>DISCLAIMER_PLACEHOLDER</key>
+	<string>أفتراضياً هذا الخيار مخصص للأيباد قد تواجه يعض المشاكل مع الأيفون عند أستخدامه.</string>
+	<key>ENABLE_BACKGROUND_PLAYBACK</key>
+	<string>تمكين تشغيل</string>
+	<key>TAB_OVERVIEW</key>
+	<string>علامات التبويب</string>
+	<key>USE_TAB_OVERVIEW</key>
+	<string>إستخدام علامات التبويب</string>
 </dict>
 </plist>
