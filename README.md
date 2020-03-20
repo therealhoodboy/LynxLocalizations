@@ -1,5 +1,5 @@
 # LynxLocalizations
-Repository for all Lynx localizations
+Repository for all [Lynx](https://repo.twickd.com/package/com.twickd.mtac.lynx) localizations
 
 ## Updates and adding new languages
 

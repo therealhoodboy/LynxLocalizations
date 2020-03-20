@@ -1,22 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>CELLS</key>
-    <string>الأقسام</string>
-    <key>HIDE_THIRD_PARTY_APPS</key>
-    <string>أخفاء تطبيقات المتجر</string>
-    <key>HIDE_CELL_ICONS</key>
-    <string>أخفاء أيقونات الأقسام</string>
-    <key>NETWORK</key>
-    <string>الشبكة</string>
-    <key>SHOW_IP_ADDRESS</key>
-    <string>IP إظهار عنوان</string>
-    <key>SHOW_ETHERNET_SECTION</key>
-    <string>إظهار قسم أتصال السلكي</string>
-    <key>SETTINGS</key>
-    <string>الإعدادات</string>
-    <key>OTHER</key>
-    <string>أزرار أضافية</string>
-    <key>ADD_INFO_BUTTON</key>
-    <string>أضافة زر معلومات</string>
+	<key>ADD_INFO_BUTTON</key>
+	<string>أضافة زر معلومات</string>
+	<key>APPLE_ID</key>
+	<string>حساب أبل أيدي</string>
+	<key>CELLS</key>
+	<string>الأقسام</string>
+	<key>FIRST_NAME</key>
+	<string>أكتب هنا</string>
+	<key>HIDE_CELL_ICONS</key>
+	<string>أخفاء أيقونات الأقسام</string>
+	<key>HIDE_CHEVRONS</key>
+	<string>إخفاء أسهم (&gt;)</string>
+	<key>HIDE_THIRD_PARTY_APPS</key>
+	<string>أخفاء تطبيقات المتجر</string>
+	<key>LAST_NAME</key>
+	<string>أكتب هنا</string>
+	<key>NETWORK</key>
+	<string>الشبكة</string>
+	<key>OTHER</key>
+	<string>أزرار أضافية</string>
+	<key>SETTINGS</key>
+	<string>الإعدادات</string>
+	<key>SHOW_ETHERNET_SECTION</key>
+	<string>إظهار قسم أتصال السلكي</string>
+	<key>SHOW_IP_ADDRESS</key>
+	<string>IP إظهار عنوان</string>
+	<key>USE_CUSTOM_FIRST_NAME</key>
+	<string>تغيير أسم أول</string>
+	<key>USE_CUSTOM_LAST_NAME</key>
+	<string>تغيير أسم أخير</string>
 </dict>
 </plist>
