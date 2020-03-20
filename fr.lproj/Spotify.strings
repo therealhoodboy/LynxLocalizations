@@ -1,1 +1,8 @@
-
+<plist version="1.0">
+<dict>
+    <key>POPUPS</key>
+    <string>Popups</string>
+    <key>BLOQUER_NOTEZ_NOUS</key>
+    <string>Bloquer les pop up "Notez Nous"</string>
+</dict>
+</plist>
