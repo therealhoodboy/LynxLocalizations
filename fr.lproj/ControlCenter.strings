@@ -14,5 +14,9 @@
     <string>Désactive completement une option lors du basculement</string>
     <key>CONTROL_CENTER</key>
     <string>Centre de Contrôle</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Utiliser les modules sombres</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Les modules sombres ne marchent pas pour le module de la lampe torche</string>
 </dict>
 </plist>
