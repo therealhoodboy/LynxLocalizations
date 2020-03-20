@@ -92,5 +92,19 @@
     <string>Cacher le lecteur multimédia</string>
     <key>LOCKSCREEN</key>
     <string>Ecran de vérouillage</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>Utiliser le retour Haptic</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Ne pas déranger</string>
+    <key>HIDE_BANNER</key>
+    <string>Cacher les bannières</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Taille des notifications</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>Utiliser une épaisseur de police différente</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>Utiliser un texte customisé</string>
+    <key>CUSTOM_TEXT</key>
+    <string>Texte customisé</string>
 </dict>
 </plist>
