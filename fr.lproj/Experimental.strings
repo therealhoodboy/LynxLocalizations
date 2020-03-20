@@ -12,5 +12,9 @@
     <string>Forcer la disposition automatique peut faire "sauter" les icones lors de l'ouverture des notifications groupé</string>
     <key>EXPERIMENTAL</key>
     <string>Experimental</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Désactiver Haptic Touch</string>
 </dict>
 </plist>

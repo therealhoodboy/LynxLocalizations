@@ -52,6 +52,10 @@
     <string>Traductions</string>
     <key>CONTRIBUTORS</key>
     <string>Contributions</string>
+    <key>TROUBLESHOOTING</key>
+    <string>Dépannage</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Allez voir Satiné</string>
     <key>APPLY_BUTTON</key>
     <string>Appliquer</string>
 </dict>

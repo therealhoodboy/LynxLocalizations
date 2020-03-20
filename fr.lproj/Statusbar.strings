@@ -24,5 +24,19 @@
     <string>Activer "Cacher la vue coloré" affecte les services de localisation, de point d'accès mobile et d'enregistrement de l'écran sur les iPhone X et ultérieur</string>
     <key>STATUS_BAR</key>
     <string>Barre de status</string>
+    <key>HIDE_EVERYWHERE</key>
+    <string>Cacher partout</string>
+    <key>HIDING</key>
+    <string>Cacher/string>
+    <key>HIDE_CLOCK</key>
+    <string>Cacher l'heure</string>
+    <key>USE_CUSTOM_CARRIER</key>
+    <string>Utiliser un texte opérateur customisé</string>
+    <key>ENTER_CUSTOM_CARRIER_TEXT</key>
+    <string>Entrer le text customisé remplaçant l'operateur</string>
+    <key>BATTERY_SECTION</key>
+    <string>Batterie</string>
+    <key>SHOW_PERCENTAGE</key>
+    <string>Montrer le pourcentage</string>
 </dict>
 </plist>
