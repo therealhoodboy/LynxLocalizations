@@ -132,5 +132,23 @@
     <string>Désactiver les icones suradjacentes</string>
     <key>SYSTEM_WIDE</key>
     <string>A l'échelle du système</string>
+    <key>HIDE_VOLUME_HUD</key>
+    <string>Cacher le HUD du volume</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>Utiliser un nombre customisé de colonnes</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>Utiliser le style moderne/string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>Forcer des titres petits</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>Cacher les retours de beta</string>
+    <key>VOLUME_HUD</key>
+    <string>Volume HUD</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Désactiver dans le menu d'acceuil</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Cacher les points lié a la beta</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Cacher dans l'écran de vérouillage</string>
 </dict>
 </plist>
