@@ -106,5 +106,7 @@
     <string>Use Custom Text</string>
     <key>CUSTOM_TEXT</key>
     <string>Custom Text</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Show Immediately</string>
 </dict>
 </plist>
