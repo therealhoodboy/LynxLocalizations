@@ -108,5 +108,7 @@
     <string>Texte customisé</string>
     <key>SHOW_IMMEDIATELY</key>
     <string>Montrer immédiatement</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Toujours afficher les notifications</string>
 </dict>
 </plist>
