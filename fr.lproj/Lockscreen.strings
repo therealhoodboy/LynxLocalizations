@@ -106,5 +106,7 @@
     <string>Utiliser un texte customisé</string>
     <key>CUSTOM_TEXT</key>
     <string>Texte customisé</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Montrer immédiatement</string>
 </dict>
 </plist>
