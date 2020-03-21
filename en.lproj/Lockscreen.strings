@@ -108,5 +108,7 @@
     <string>Custom Text</string>
     <key>SHOW_IMMEDIATELY</key>
     <string>Show Immediately</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Always Show Older Notifications</string>
 </dict>
 </plist>
