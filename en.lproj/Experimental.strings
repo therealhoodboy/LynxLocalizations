@@ -16,5 +16,9 @@
     <string>Haptic Touch</string>
     <key>DISABLE_HAPTIC_TOUCH</key>
     <string>Disable Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Round screen corners only works on non-notched devices</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Round Screen Corners</string>
 </dict>
 </plist>
