@@ -12,5 +12,7 @@
     <string>Disable on SpringBoard</string>
     <key>TODAY_VIEW</key>
     <string>Today View</string>
+    <key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>Hide New Widgets Button</string>
 </dict>
 </plist>
