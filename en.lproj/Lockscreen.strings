@@ -112,5 +112,7 @@
     <string>Always Show Older Notifications</string>
     <key>USE_SMOOTHER_SWIPING</key>
     <string>Use Smoother Swiping</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Hide Swipe Separators</string>
 </dict>
 </plist>
