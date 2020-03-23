@@ -22,5 +22,7 @@
     <string>Round Screen Corners</string>
     <key>HIDE_BAR_LOCKSCREEN</key>
     <string>Hide On Lockscreen</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Hide On Lockscreen</string>
 </dict>
 </plist>
