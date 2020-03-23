@@ -20,5 +20,7 @@
     <string>Round screen corners only works on non-notched devices</string>
     <key>ROUND_SCREEN_CORNERS</key>
     <string>Round Screen Corners</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Hide On Lockscreen</string>
 </dict>
 </plist>
