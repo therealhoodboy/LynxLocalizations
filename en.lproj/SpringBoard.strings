@@ -148,7 +148,5 @@
     <string>Disable On Homescreen</string>
     <key>HIDE_BETA_DOTS</key>
     <string>Hide Beta Dots</string>
-    <key>HIDE_BAR_LOCKSCREEN</key>
-    <string>Hide On Lockscreen</string>
 </dict>
 </plist>
