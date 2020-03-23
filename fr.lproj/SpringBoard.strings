@@ -137,7 +137,7 @@
     <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
     <string>Utiliser un nombre customisé de colonnes</string>
     <key>USE_MODERN_STYLE_TABLEVIEWS</key>
-    <string>Utiliser le style moderne/string>
+    <string>Utiliser le style moderne</string>
     <key>FORCE_SMALL_TITLES</key>
     <string>Forcer des titres petits</string>
     <key>HIDE_BETA_FEEDBACK</key>
