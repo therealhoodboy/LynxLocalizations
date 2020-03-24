@@ -10,5 +10,9 @@
     <string>Hide recent picture preview</string>
     <key>CAMERA</key>
     <string>Camera</string>
+    <key>SHUTTER_SOUND</key>
+    <string>Shutter Sound</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Disable Shutter Sound</string>
 </dict>
 </plist>
