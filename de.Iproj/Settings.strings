@@ -5,13 +5,13 @@
     <key>HIDE_THIRD_PARTY_APPS</key>
     <string>Apps von Drittanbietern ausblenden</string>
     <key>HIDE_CELL_ICONS</key>
-    <string>Zellensymbole ausblenden</string>
+    <string>Icons ausblenden</string>
     <key>NETWORK</key>
     <string>Netzwerk</string>
     <key>SHOW_IP_ADDRESS</key>
-    <string>IP-Adresse anzeigen</string>
+    <string>IP-Adresse statt WLAN-Namen anzeigen</string>
     <key>SHOW_ETHERNET_SECTION</key>
-    <string>Ethernet-Bereich anzeigen</string>
+    <string>Ethernet einblenden</string>
     <key>SETTINGS</key>
     <string>Einstellungen</string>
 </dict>
