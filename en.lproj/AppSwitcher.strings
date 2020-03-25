@@ -20,5 +20,7 @@
     <string>Prevent Killing of Playing Apps</string>
     <key>APP_SWITCHER</key>
     <string>App Switcher</string>
+    <key>USE_CUSTOM_SCALE</key>
+    <string>Use Custom Card Scale</string>
 </dict>
 </plist>
