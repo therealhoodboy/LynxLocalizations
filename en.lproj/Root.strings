@@ -58,5 +58,9 @@
     <string>Check out Satiné</string>
     <key>APPLY_BUTTON</key>
     <string>Apply</string>
+    <key>TWEAK_BLACKLIST</key>
+    <string>Tweak Blacklist</string>
+    <key>DISABLE_IN</key>
+    <string>Disable Lynx in Applications</string>
 </dict>
 </plist>
