@@ -12,5 +12,9 @@
     <string>أخفاء الصور الملتقطة</string>
     <key>CAMERA</key>
     <string>الكاميرا</string>
+    <key>SHUTTER_SOUND</key>
+    <string>صوت التصوير</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>أيقاف صوت</string>
 </dict>
 </plist>

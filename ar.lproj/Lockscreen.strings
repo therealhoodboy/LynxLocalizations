@@ -108,5 +108,11 @@
     <string>تغيير نص</string>
     <key>CUSTOM_TEXT</key>
     <string>أكتب هنا</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>تمرير أكثر سلاسة</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>أخفاء فواصل التمرير</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>عرض على الفور</string>
 </dict>
 </plist>
