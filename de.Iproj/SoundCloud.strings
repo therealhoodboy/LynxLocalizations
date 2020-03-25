@@ -3,6 +3,6 @@
     <key>ADVERTISEMENTS</key>
     <string>Werbung</string>
     <key>BLOCK_ADVERTISEMENTS</key>
-    <string>Werbung Blockieren</string>
+    <string>Werbung blockieren</string>
 </dict>
 </plist>
