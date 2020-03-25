@@ -7,7 +7,7 @@
     <key>APP_STRIP</key>
     <string>App Strip</string>
     <key>HIDE_MESSAGE_APPS</key>
-    <string>In IMessage-Apps ausblenden</string>
+    <string>iMessage-Apps ausblenden</string>
     <key>MESSAGE_BUBBLES</key>
     <string>Nachrichtenblasen</string>
     <key>USE_CUSTOM_BUBBLE_COLOR</key>
