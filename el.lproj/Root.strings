@@ -58,5 +58,9 @@
     <string>Δες το SatinÃ©</string>
     <key>APPLY_BUTTON</key>
     <string>Εφαρμογή</string>
+	<key>TWEAK_BLACKLIST</key>
+    <string>Μαύρη λίστα των Tweaks</string>
+    <key>DISABLE_IN</key>
+    <string>Απενεργοποίηση του Lynx στις εφαρμογές</string>
 </dict>
 </plist>
