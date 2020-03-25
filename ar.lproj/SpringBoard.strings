@@ -166,5 +166,11 @@
 	<string>استخدام النمط الحديث</string>
 	<key>VOLUME_HUD</key>
 	<string>تحكم الصوت</string>
+	<key>HIDE_BAR_LOCKSCREEN</key>
+	<string>أخفاء في شاشة القفل</string>
+	<key>DISABLE_SCREENSHOT_SOUND</key>
+	<string>أيقاف صوت</string>
+	<key>Add 'Clear Badges' Option</key>
+	<string>أضافة خيار حذف عدد إشعارات</string>
 </dict>
 </plist>

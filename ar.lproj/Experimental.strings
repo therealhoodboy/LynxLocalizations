@@ -20,5 +20,15 @@
 	<string>أيقونات مدورة</string>
 	<key>USE_MODERN_STYLE</key>
 	<string>استخدام نمط حديث</string>
+	<key>DISABLE_ON_HOMESCREEN</key>
+	<string>أيقاف في شاشة رئيسية</string>
+	<key>Spotlight</key>
+	<string>sPOTLIGHT بحث</string>
+	<key>ROUND_SCREEN_WARNING</key>
+	<string>تحذير تدوير زوايا الشاشة</string>
+	<key>ROUND_SCREEN_CORNERS</key>
+	<string>تمكين تدوير زوايا</string>
+	<key>Screen</key>
+	<string>شاشة رئيسية وتطبيقات</string>
 </dict>
 </plist>

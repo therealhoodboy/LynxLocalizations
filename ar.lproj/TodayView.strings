@@ -14,5 +14,7 @@
     <string>اخفاء من شاشة رئيسية</string>
     <key>TODAY_VIEW</key>
     <string>الصفحة اليومية</string>
+    <key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>أخفاء زر ويدجيت جديد</string>
 </dict>
 </plist>
