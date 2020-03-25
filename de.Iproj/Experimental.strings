@@ -7,10 +7,10 @@
     <key>AUTO_LAYOUT</key>
     <string>Automatisches Layout erzwingen</string>
     <key>USE_CIRCLE_ICONS</key>
-    <string>Verwenden Kreissymbole</string>
+    <string>Rund Symbole anzeigen</string>
     <key>AUTO_LAYOUT_PLACEHOLDER</key>
     <string>Durch das Erzwingen des "automatischen Layouts" können Symbole springen, wenn Benachrichtigungsstapel geöffnet werden</string>
     <key>EXPERIMENTAL</key>
-    <string>Experimental</string>
+    <string>Experimental Features</string>
 </dict>
 </plist>
