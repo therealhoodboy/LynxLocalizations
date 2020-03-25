@@ -12,5 +12,15 @@
     <string>Wymuszenie "układu automatycznego" może powodować podskoczenie ikon podczas otwierania zbioru powiadomień</string>
     <key>EXPERIMENTAL</key>
     <string>Experimental</string>
+    <key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Wyłącz Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Zaokrąglone ekrany działają tylko na urządzeniach non-notched.</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Zaokrąglone rogi ekranu</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Wyłącz na ekranie głównym</string>
 </dict>
 </plist>

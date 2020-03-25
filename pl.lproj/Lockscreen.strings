@@ -92,5 +92,27 @@
     <string>Ukryj odtwarzacz multimediów</string>
     <key>LOCKSCREEN</key>
     <string>Ekran blokady</string>
+    <key>USE_HAPTIC_FEEDBACK</key>
+    <string>Użyj Haptic Feedback</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Nie przeszkadzać</string>
+    <key>HIDE_BANNER</key>
+    <string>Ukryj baner trybu Nie przeszkadzać</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Wysokość powiadomień</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>Użyj własnej wielkości czcionki</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>Użyj własnego tekstu odblokowania</string>
+    <key>CUSTOM_TEXT</key>
+    <string>Custom Text</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Pokaż natychmiastowo</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Zawsze pokazuj starsze powiadomienia</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Użyj płynnego przewijania</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Ukryj seperatory przesuwania</string>
 </dict>
 </plist>

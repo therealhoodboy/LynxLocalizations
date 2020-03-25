@@ -10,5 +10,9 @@
     <string>Ukryj podgląd ostatnich zdjęć</string>
     <key>CAMERA</key>
     <string>Aparat</string>
+    <key>SHUTTER_SOUND</key>
+    <string>Dźwięk migawki</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Wyłącz dźwięk migawki</string>
 </dict>
 </plist>
