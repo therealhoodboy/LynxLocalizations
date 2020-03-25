@@ -1,18 +1,34 @@
 <plist version="1.0">
 <dict>
-    <key>CELLS</key>
-    <string>Κελιά</string>
-    <key>HIDE_THIRD_PARTY_APPS</key>
-    <string>Απόκρυψη εφαρμογών τρίτων</string>
-    <key>HIDE_CELL_ICONS</key>
-    <string>Απόκρυψη εικονιδίων των κελιών</string>
-    <key>NETWORK</key>
-    <string>Δίκτυο</string>
-    <key>SHOW_IP_ADDRESS</key>
-    <string>Εμφάνιση της διεύθυνσης IP</string>
-    <key>SHOW_ETHERNET_SECTION</key>
-    <string>Εμφάνιση της ενότητας Ethernet</string>
-    <key>SETTINGS</key>
-    <string>Ρυθμίσεις</string>
+	<key>APPLE_ID</key>
+	<string>Apple ID</string>
+	<key>USE_CUSTOM_FIRST_NAME</key>
+	<string>Χρήση προσαρμοσμένου ονόματος</string>
+	<key>FIRST_NAME</key>
+	<string>Όνομα</string>
+	<key>USE_CUSTOM_LAST_NAME</key>
+	<string>Χρήση προσαρμοσμένου επωνύμου</string>
+	<key>LAST_NAME</key>
+	<string>Επώνυμο</string>
+	<key>CELLS</key>
+	<string>Κελιά</string>
+	<key>HIDE_THIRD_PARTY_APPS</key>
+	<string>Αποκρύψη εφαρμογών τρίτων</string>
+	<key>HIDE_CELL_ICONS</key>
+	<string>Απόκρυψη εικονιδίων εφαρμογών</string>
+	<key>HIDE_CHEVRONS</key>
+	<string>Απόκρυψη του βέλους των κελιών</string>
+	<key>NETWORK</key>
+	<string>Δίκτυο</string>
+	<key>SHOW_IP_ADDRESS</key>
+	<string>Εμφάνιση διεύθυνσης IP</string>
+	<key>SHOW_ETHERNET_SECTION</key>
+	<string>Εμφάνιση ενότητας Ethernet</string>
+	<key>OTHER</key>
+	<string>Άλλα</string>
+	<key>ADD_INFO_BUTTON</key>
+	<string>Προσθήκη κουμπιού πληροφοριών</string>
+	<key>SETTINGS</key>
+	<string>Ρυθμίσεις</string>
 </dict>
 </plist>

@@ -52,5 +52,11 @@
     <string>Μεταφράσεις</string>
     <key>CONTRIBUTORS</key>
     <string>Συνεισφέροντες</string>
+	<key>TROUBLESHOOTING</key>
+    <string>Αντιμετώπιση προβλημάτων</string>
+    <key>CHECK_OUT_SATINE</key>
+    <string>Δες το SatinÃ©</string>
+    <key>APPLY_BUTTON</key>
+    <string>Εφαρμογή</string>
 </dict>
 </plist>

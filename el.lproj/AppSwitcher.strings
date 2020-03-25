@@ -20,5 +20,7 @@
     <string>Αποτροπή κλεισίματος εφαρμογών που κάνουν αναπαραγωγή</string>
     <key>APP_SWITCHER</key>
     <string>Οθόνη εναλλαγής εφαρμογών</string>
+	<key>USE_CUSTOM_SCALE</key>
+    <string>Χρήση προσαρμοσμένου μεγέθους</string>
 </dict>
 </plist>
