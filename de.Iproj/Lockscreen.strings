@@ -3,11 +3,11 @@
     <key>CLOCK</key>
     <string>Uhr</string>
     <key>HIDE_TIME_LABEL</key>
-    <string>Zeitbeschriftung ausblenden</string>
+    <string>Zeit ausblenden</string>
     <key>HIDE_DATE_LABEL</key>
-    <string>Datumsbezeichnung ausblenden</string>
+    <string>Datum ausblenden</string>
     <key>CLOCK_FONT_STYLE</key>
-    <string>Uhr-Schriftstyle</string>
+    <string>Schriftart Uhr</string>
     <key>CLOCK_FONT_WEIGHT</key>
     <string>Schriftstärke der Uhr</string>
     <key>DEFAULT_FONT</key>
@@ -35,7 +35,7 @@
     <key>HIDE_APP_NAMES</key>
     <string>Anwendungsnamen ausblenden</string>
     <key>HIDE_TIME_LABELS</key>
-    <string>Zeitbeschriftungen ausblenden</string>
+    <string>Uhr ausblenden</string>
     <key>HIDE_NOTIFICATION_CENTER_TEXT</key>
     <string>Text der "Benachrichtigungszentrale" ausblenden</string>
     <key>SET_NOTIFICATION_CENTER_TEXT</key>
@@ -45,7 +45,7 @@
     <key>PASSCODE_SCREEN</key>
     <string>Passcode-Bildschirm</string>
     <key>HIDE_FACE_ID_LOCK</key>
-    <string>FaceID-Vorhängeschloss ausblenden</string>
+    <string>FaceID-Glyph ausblenden</string>
     <key>HIDE_PASSCODE_BACKGROUND</key>
     <string>Passcode-Hintergrund ausblenden</string>
     <key>HIDE_EMERGENCY_BUTTON</key>
@@ -65,13 +65,13 @@
     <key>HIDE_BOTH</key>
     <string>Beide verstecken</string>
     <key>HIDE_TORCH_BUTTON</key>
-    <string>Taschenlampentaste ausblenden</string>
+    <string>Taschenlampe ausblenden</string>
     <key>HIDE_CAMERA_BUTTON</key>
-    <string>Kamerataste ausblenden</string>
+    <string>Kamera ausblenden</string>
     <key>UNLOCK_TEXT</key>
     <string>"Entsperren" Text</string>
     <key>HIDE_SWIPE_PRESS</key>
-    <string>Swipe Up / Zum Entsperren drücken ausblenden</string>
+    <string>Zum Entsperren streichen / Zum Entsperren drücken ausblenden</string>
     <key>HIDE_TOP_SWIPE_TEXT</key>
     <string>Verstecke den oberen 'Swipe'-Text</string>
     <key>OLDER_NOTIFICATIONS</key>
@@ -81,7 +81,7 @@
     <key>CAMERA</key>
     <string>Kamera</string>
     <key>DISABLE_CAMERA_SWIPE</key>
-    <string>Deaktivieren Sie die KameraSwipe(SperrBildschirm)</string>
+    <string>Deaktivieren Sie die KameraSwipe(Sperrbildschirm)</string>
     <key>FORCE_ENABLE_CAMERA</key>
     <string>Kamera aktivieren erzwingen</string>
     <key>FORCE_CAMERA_STRING</key>
