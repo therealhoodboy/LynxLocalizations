@@ -9,7 +9,7 @@
     <key>DOCK</key>
     <string>Dock</string>
     <key>HIDE_DOCK_BACKGROUND</key>
-    <string>Hintergrund ausblenden</string>
+    <string>Hintergrund des Docks ausblenden</string>
     <key>USE_CUSTOM_ICON_COUNT</key>
     <string>Verwendung der benutzerdefinierte Symbolanzahl</string>
     <key>HOME_BAR</key>
@@ -21,9 +21,9 @@
     <key>HIDE_TABLE_VIEW_SEPARATORS</key>
     <string>Trennlinien ausblenden</string>
     <key>USE_CUSTOM_COLOR</key>
-    <string>Verwenden benutzerdefinierte Farbe</string>
+    <string>Benutzerdefinierte Farbe auswhälen</string>
     <key>COLORPICKER_TINT_COLOR</key>
-    <string>Benutzerdefiniertefarbe</string>
+    <string>Benutzerdefinierte Farbe</string>
     <key>SEARCH_BARS</key>
     <string>Suchleisten</string>
     <key>HIDE_SEARCH_BARS</key>
@@ -35,25 +35,25 @@
     <key>SCREENSHOTS</key>
     <string>Screenshots</string>
     <key>HIDE_FLASH</key>
-    <string>Flash ausblenden</string>
+    <string>Blitz ausblenden</string>
     <key>FLASH_TINT_COLOR</key>
-    <string>Flash-Benutzerdefiniertefarbe</string>
+    <string>Blitz-Farbe anpassen</string>
     <key>SCROLL_INDICATORS</key>
-    <string>Scroll-Ansicht Indikatoren</string>
+    <string>Scrollbalken</string>
     <key>HIDE_SCROLL_BARS</key>
-    <string>Bildlaufleisten ausblenden</string>
+    <string>Scrollbalken ausblenden</string>
     <key>NAVIGATION_BARS</key>
-    <string>Navigation Leiste</string>
+    <string>Navigationsleiste</string>
     <key>HIDE_SHADOW_IMAGE</key>
-    <string>Schattenbild ausblenden</string>
+    <string>Schatten ausblenden</string>
     <key>FOLDERS</key>
     <string>Ordner</string>
     <key>HIDE_FOLDER_TITLES</key>
     <string>Ordnertitel ausblenden</string>
     <key>HIDE_OPEN_FOLDER_BACKGROUND</key>
-    <string>geöffneten Hindergrund ausblenden</string>
+    <string>Ordner transparent</string>
     <key>HIDE_FOLDER_ICON_BACKGROUND</key>
-    <string>Ordnersymbolhintergrund ausblenden</string>
+    <string>Ordner auf Homebildschirm transparent</string>
     <key>CLOSE_FOLDER_AUTOMATICALLY</key>
     <string>Automatisch schließen</string>
     <key>ICONS</key>
@@ -63,7 +63,7 @@
     <key>HIDE_PAGE_DOTS</key>
     <string>Seitenpunkte ausblenden</string>
     <key>HIDE_UPDATE_DOTS</key>
-    <string>Aktualisierungspunkte ausblenden</string>
+    <string>Blaue Punkte nach Update ausblenden</string>
     <key>SHOW_DONE_BUTTON</key>
     <string>Schaltfläche 'Fertig' anzeigen</string>
     <key>USE_CUSTOM_LABEL_COLOR</key>
@@ -71,49 +71,49 @@
     <key>SWITCHES</key>
     <string>Schalter</string>
     <key>USE_CUSTOM_SWITCH_COLOR</key>
-    <string>Verwenden "Benutzerdefiniert Farbe" für ON</string>
+    <string>Verwenden "Benutzerdefinierte Farbe" für "Ein"</string>
     <key>BADGES</key>
-    <string>Abzeichen</string>
+    <string>Kennzeichen</string>
     <key>HIDE_BADGES</key>
-    <string>Abzeichen ausblenden</string>
+    <string>Kennzeichen ausblenden</string>
     <key>USE_AVERAGE_COLOR</key>
-    <string>Verwenden Sie die Durchschnittsfarbe</string>
+    <string>Farbe an App anpassen</string>
     <key>FORCE_TOUCH</key>
-    <string>3D Touch</string>
+    <string>Force Touch</string>
     <key>HIDE_SHARE_OPTION</key>
-    <string>Share App Option ausblenden</string>
+    <string>"App teilen" ausblenden</string>
     <key>HIDE_DELETE_OPTION</key>
-    <string>Option zum Löschen von Apps ausblenden</string>
+    <string>"App löschen" ausblenden</string>
     <key>HIDE_EDIT_OPTION</key>
-    <string>Bearbeitungsoption ausblenden</string>
+    <string>"Home-Bildschirm bearbeiten" ausblenden</string>
     <key>REVERSE_ACTION_ORDER</key>
-    <string>Reverse Action Order</string>
+    <string>Reverse Action Order</string>     //Unclear description
     <key>HIDE_ACTION_ICONS</key>
-    <string>Aktionssymbole ausblenden</string>
+    <string>Aktionssymbole ausblenden</string> //Unclear description
     <key>SHOW_IP_ADDRESS</key>
     <string>IP-Adresse anzeigen</string>
     <key>SHOW_BATTERY_LEVEL</key>
-    <string>Batteriestand anzeigen</string>
+    <string>Batterieladung anzeigen</string>
     <key>HIDE_SEPARATOR_LINES</key>
     <string>Trennlinien ausblenden</string>
     <key>SCREEN_TIME</key>
-    <string>Bildschirm-Zeit</string>
+    <string>Bildschirmzeit</string>
     <key>DISABLE_ICON_DARKENING</key>
-    <string>Deaktivieren das Abdunkeln der Symbole</string>
+    <string>App-Icons nicht abdunkeln</string>
     <key>DISABLE_HOURGLASS_ICON</key>
     <string>Sanduhrsymbol deaktivieren</string>
     <key>BREADCRUMBS</key>
-    <string>Zurück zur App</string>
+    <string>"Zurück zu.." </string>
     <key>HIDE_APP_BREADCRUMBS</key>
-    <string>App-Zurück Ansicht ausblenden</string>
+    <string>"Zurück zu" ausblenden</string>
     <key>TAB_BAR_LABELS</key>
     <string>Tab Bar Labels</string>
     <key>HIDE_TAB_BAR_LABELS</key>
-    <string>Tab-Leisten Beschriftungen ausblenden</string>
+    <string>Tab-Leisten Beschriftungen ausblenden</string>     //Unclear description
     <key>HOMESCREEN_WIDGETS</key>
-    <string>Startbildschirm Widgets</string>
+    <string>Home-Screen Widgets</string>
     <key>HIDE_ADD_WIDGET_TEXT</key>
-    <string>Text "Widget hinzufügen" ausblenden</string>
+    <string>"Widget hinzufügen" ausblenden</string>
     <key>FACEID_ALERT</key>
     <string>FaceID Popup</string>
     <key>USE_CUSTOM_FACEID_ANIMATIONS</key>
@@ -123,13 +123,13 @@
     <key>FACEID_ANIMATION_LENGTH</key>
     <string>FaceID-Animationslänge</string>
     <key>LOW_POWER_MODE</key>
-    <string>Energiesparmodus</string>
+    <string>Stromsparmodus</string>
     <key>DISABLE_AUTO_LOCK</key>
     <string>Deaktivieren die automatische Sperre</string>
     <key>ANIMATIONS</key>
     <string>Animationen</string>
     <key>ICON_FLY_IN</key>
-    <string>Symbol "Fly-In" deaktivieren</string>
+    <string>Das Einfliegen der App-Symbole deaktivieren</string>
     <key>SYSTEM_WIDE</key>
     <string>Systemweit</string>
 </dict>
