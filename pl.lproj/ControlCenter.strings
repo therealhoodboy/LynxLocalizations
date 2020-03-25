@@ -14,5 +14,9 @@
     <string>Faktycznie wyłączaj przełączniki</string>
     <key>CONTROL_CENTER</key>
     <string>Centrum Sterowania</string>
+    <key>USE_DARK_MODULES</key>
+    <string>Użyj Ciemnych modułów</string>
+    <key>DARK_MODULE_WARNING</key>
+    <string>Ciemny motyw nie działa z modułem latarki.</string>
 </dict>
 </plist>
