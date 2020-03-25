@@ -12,5 +12,7 @@
     <string>Απενεργοποίηση στην αρχική οθόνη</string>
     <key>TODAY_VIEW</key>
     <string>Οθόνη Today</string>
+	<key>HIDE_NEW_WIDGETS_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού 'Διατίθενται νέα Widgets'</string>
 </dict>
 </plist>

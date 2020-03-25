@@ -92,5 +92,27 @@
     <string>Απόκρυψη του παραθύρου αναπαραγωγής</string>
     <key>LOCKSCREEN</key>
     <string>Οθόνη κλειδώματος</string>
+	<key>USE_HAPTIC_FEEDBACK</key>
+    <string>Χρήση απτικών αναδράσεων</string>
+    <key>DO_NOT_DISTURB</key>
+    <string>Μην ενοχλείτε</string>
+    <key>HIDE_BANNER</key>
+    <string>Απόκρυψη του Banner</string>
+    <key>NOTIFICATION_HEIGHT</key>
+    <string>Ύψος ειδοποίησης</string>
+    <key>USE_CUSTOM_FONT_WEIGHT</key>
+    <string>Χρήση προσαρμοσμένου Font Weight</string>
+    <key>USE_CUSTOM_SWIPE_TEXT</key>
+    <string>Χρήση προσαρμοσμένου κειμένου</string>
+    <key>CUSTOM_TEXT</key>
+    <string>Προσασμοσμένο κείμενο</string>
+    <key>SHOW_IMMEDIATELY</key>
+    <string>Εμφάνιση κατευθείαν</string>
+    <key>DISPLAY_IMMEDIATELY</key>
+    <string>Προβολή παλαιότερων ειδοποιήσεων πάντα</string>
+    <key>USE_SMOOTHER_SWIPING</key>
+    <string>Χρήση ομαλού συρσίματος</string>
+    <key>HIDE_SWIPE_SEPARATORS</key>
+    <string>Απόκρυψη διαχωριστικών συρσίματος</string>
 </dict>
 </plist>

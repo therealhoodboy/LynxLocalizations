@@ -1,0 +1,8 @@
+<plist version="1.0">
+<dict>
+    <key>COINS</key>
+    <string>Νομίσματα</string>
+    <key>HIDE_COIN_BUTTON</key>
+    <string>Απόκρυψη του κουμπιού νομισμάτων</string>
+</dict>
+</plist> 

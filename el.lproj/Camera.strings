@@ -10,5 +10,9 @@
     <string>Απόκρυψη της προεπισκόπησης των πρόσφατων φωτογραφιών</string>
     <key>CAMERA</key>
     <string>Κάμερα</string>
+	<key>SHUTTER_SOUND</key>
+    <string>Ήχος κλείστρου</string>
+    <key>DISABLE_SHUTTER_SOUND</key>
+    <string>Απενεργοποίηση ήχου κλείστρου</string>
 </dict>
 </plist>

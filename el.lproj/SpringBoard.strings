@@ -127,10 +127,30 @@
     <key>DISABLE_AUTO_LOCK</key>
     <string>Απενεργοποίηση αυτόματου κλειδώματος</string>
     <key>ANIMATIONS</key>
-    <string>Animations</string>
+    <string>Κινούμενα εφέ</string>
     <key>ICON_FLY_IN</key>
     <string>Απενεργοποίηση του Fly-In των εικονιδίων</string>
     <key>SYSTEM_WIDE</key>
     <string>Όλο το σύστημα</string>
+	<key>HIDE_VOLUME_HUD</key>
+    <string>Απόκρυψη του αναδυόμενου παραθύρου ήχου</string>
+    <key>USE_CUSTOM_NUMBER_OF_COLUMNS</key>
+    <string>Χρήση προσαρμοσμένου αριθμού στηλών</string>
+    <key>USE_MODERN_STYLE_TABLEVIEWS</key>
+    <string>Χρήση μοντέρνου στύλ</string>
+    <key>FORCE_SMALL_TITLES</key>
+    <string>Επιβολή μικρότερης γραμματοσειράς στους τίτλους</string>
+    <key>HIDE_BETA_FEEDBACK</key>
+    <string>Απόκρυψη του εικονιδίου 'Beta Feedback'</string>
+    <key>VOLUME_HUD</key>
+    <string>Αναδυόμενο παράθυρο ήχου</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Απενεργοποίηση στην αρχική οθόνη</string>
+    <key>HIDE_BETA_DOTS</key>
+    <string>Απόκρυψη των ετικετών Beta εφαρμογών</string>
+    <key>DISABLE_SCREENSHOT_SOUND</key>
+    <string>Απενεργοποίηση του ήχου Screenshot</string>
+    <key>HIDE_BAR_LOCKSCREEN</key>
+    <string>Απόκρυψη στην οθόνη κλειδώματος</string>
 </dict>
 </plist>

@@ -12,5 +12,15 @@
     <string>Η επιβολή της αυτόματης διάταξης μπορεί να κάνει τα εικονίδια να αναπηδήσουν κατά το άνοιγμα της στοίβας των εδιοποιήσεων</string>
     <key>EXPERIMENTAL</key>
     <string>Σε πειραματικό στάδιο</string>
+	<key>HAPTIC_TOUCH</key>
+    <string>Haptic Touch</string>
+    <key>DISABLE_HAPTIC_TOUCH</key>
+    <string>Απενεργοποίηση Haptic Touch</string>
+    <key>ROUND_SCREEN_WARNING</key>
+    <string>Οι στρογγυλές γωνίες οθόνης λειτουργούν μόνο σε συσκευές χωρίς notch</string>
+    <key>ROUND_SCREEN_CORNERS</key>
+    <string>Στρογγυλές γωνίες οθόνης</string>
+    <key>DISABLE_ON_HOMESCREEN</key>
+    <string>Απενεργοποίηση στην αρχική οθόνη</string>
 </dict>
 </plist>
